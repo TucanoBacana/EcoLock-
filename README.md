@@ -7,7 +7,7 @@ Trabalho da APS de Ciência da Computação (5º/6º semestre, 2026/2), discipli
 
 1. Instale o Python 3.10 a 3.12 e o XAMPP.
 2. No painel do XAMPP, clique em **Start** no módulo **MySQL**.
-3. Na pasta `codigo`, crie o ambiente virtual e instale as dependências.
+3. Na pasta do projeto, crie o ambiente virtual e instale as dependências.
    O `dlib-bin` é o dlib já compilado, então não é preciso instalar o Visual Studio.
 
    ```bash
